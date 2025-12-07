@@ -6,4 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []
 
+[project.scripts]
+gendiff = "hexlet-python-project-50.scripts.gendiff:main"
+
 
